@@ -1,10 +1,10 @@
 Application idea :
 
-- Give the user an insight of the absolute sugar quantity in the product. (Is it a lot compared to a reasonable daily intake?)
+- Give the user an insight of the absolute sugar quantity in the product, or even better, of one item of the product. (Is it a lot compared to a reasonable daily intake?)
 
-- Compare that quantity to the quantity of sugar in similar products and eventually pinpoint to a much better set of products (available in the store ?).
+- Compare that quantity to the quantity of sugar in similar products and eventually pinpoint to an healthier set of products (available in the store ?).
 
-- After some reading from the [ANSES](https://www.anses.fr/fr/system/files/NUT2012SA0186Ra.pdf), I want to try to assess, when possible, the contribution of the total sugar intake (100g equiv saccharose or 50g fructose) advise by this commission :
+- According [ANSES in 2016](https://www.anses.fr/fr/system/files/NUT2012SA0186Ra.pdf), a reasonable daily intake not to exceed is 100g equiv saccharose or 50g fructose :
 
 "L’analyse de la littérature réalisée dans le cadre de cette expertise montre qu’il existe un faisceau
 d’éléments convergeant vers des effets néfastes d’apports élevés en sucres qui rend nécessaire la
