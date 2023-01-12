@@ -6,7 +6,7 @@ NAME IDEAS :
 ***
 FEATURES :
 
-- On scanning a product, compare the quantity of sugar  with the quantity of sugars in similar products and eventually pinpoint to an healthier set of products (BONUS : available in the store ? in the same category and larger categories?). 
+- On scanning a product, compare the quantity of sugar per 100 g with the quantity of sugars per 100 g in similar products. It then eventually pinpoint to an healthier set of products. *(BONUS : available in the store ? in the same category and larger categories?).*
 
 
 - Give the user an insight of the absolute sugar quantity in the product, or even better, of the quantity found in one item of the product. (Is it a lot compared to a reasonable daily intake?)
@@ -14,7 +14,7 @@ FEATURES :
 ***
 SOURCES:
 
-- According [ANSES in 2016](https://www.anses.fr/fr/system/files/NUT2012SA0186Ra.pdf), a reasonable daily intake not to exceed is 100g equiv saccharose or 50g fructose :
+- According [ANSES in 2016](https://www.anses.fr/fr/system/files/NUT2012SA0186Ra.pdf), a reasonable daily intake should not exceed 100g equiv saccharose or 50g fructose :
 
 "L’analyse de la littérature réalisée dans le cadre de cette expertise montre qu’il existe un faisceau
 d’éléments convergeant vers des effets néfastes d’apports élevés en sucres qui rend nécessaire la
