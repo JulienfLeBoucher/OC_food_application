@@ -6,7 +6,9 @@ NAME IDEAS :
 ***
 FEATURES :
 
-- On scanning a product, compare the quantity of sugar per 100 g with the quantity of sugars per 100 g in similar products. It then eventually pinpoint to an healthier set of products. *(BONUS : available in the store ? in the same category and larger categories?).*
+- On scanning a product, compare the quantity of sugar per 100 g with the quantity of sugars per 100 g in similar products. 
+
+- Eventually pinpoint to an healthier set of products. *(BONUS : available in the store ? in the same category and larger categories?).*
 
 
 - Give the user an insight of the absolute sugar quantity in the product, or even better, of the quantity found in one item of the product. (Is it a lot compared to a reasonable daily intake?)
