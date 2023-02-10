@@ -1,9 +1,7 @@
 consignes_projet.md
 csv_files/*
 *.pdf
-!p3_presentation.pdf
 *.gz
 Part-1-Exploring-Food-Data-1-2.ipynb
 notes_webinaire_p3.md
 corrige_webinaire_p3.ipynb
-presentation/*
