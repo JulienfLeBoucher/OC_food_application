@@ -4,7 +4,7 @@
 
 In this project, I explore and value the content of the Open Food Facts data set to feed in an [imaginary food application](application_idea.md).
 
-For a better and interactive navigation in notebooks, I recommend using the links below which uses nbviewer instead of the GitHub notebook reader.
+For a better and interactive navigation in notebooks, I recommend using the links below which use nbviewer instead of the GitHub notebook reader.
 
 ### [Cleansing notebook](https://nbviewer.org/github/JulienfLeBoucher/OC_food_application/blob/main/cleaning_notebook.ipynb) :
 - handle duplicates and synthesize information ;
